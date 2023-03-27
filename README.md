@@ -10,16 +10,17 @@ Contact me via these media!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonihg@gmail.com)](mailto:yoonihg@gmail.com)
 
 ## Experiences
-- `2022.12 ~ 2023.02` Team lead of the [Hotsix Team](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot) for 2023 KPMG Ideation Competition
-- `2021.03 ~ 2023.02` Chung-Ang University Graduate School, Computer Engineering 
-- `2017.09 ~ 2019.08` Reporter of [Hansung News](https://hansungnews.com/search?keyword=%EC%9C%A4%ED%9D%AC%EC%8A%B9&page=1)
+- `2022.12 ~ 2023.02` Team leader, [Hotsix Team](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot), 2023 KPMG Ideation Competition
+- `2021.03 ~ 2023.02` Knowledge Engineering Laboratory, Computer Engineering, Chung-Ang University Graduate School
+- `2020.07 ~ 2020.08` Research Intern, Intelligent Information Processing Laboratory, Chung-Ang University
 
 ## Projects
 
 | Date | Project | Tech Stack |
 |:--------------:|:--------------------------:|:------------------------------:|
 | 2022.12 ~ 2023.02 | [2023 KPMG Ideation Competition](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot) | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-%23F7931E.svg?style=flat&logo=Gradio&logoColor=black"/>|
-| 2022.12 | [Master's Thesis](https://github.com/HenryYoon/thesis) | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-%23F7931E.svg?style=flat&logo=NLTK&logoColor=black"/> <img src="https://img.shields.io/badge/KoNLPy-%23F7931E.svg?style=flat&logo=Gradio&logoColor=black"/> <img src="https://img.shields.io/badge/Fugashi-%23F7931E.svg?style=flat&logo=Fugashi&logoColor=black"/> <img src="https://img.shields.io/badge/Gensim-%23F7931E.svg?style=flat&logo=Gradio&logoColor=black"/> <img src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Requests-%23F7931E.svg?style=flat&logo=Requests&logoColor=black"/>|
+| 2022.12 | [Master's Thesis](https://github.com/HenryYoon/thesis) | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-%#000000.svg?style=flat&logo=NLTK&logoColor=black"/> <img src="https://img.shields.io/badge/KoNLPy-%#000000.svg?style=flat&logo=Gradio&logoColor=black"/> <img src="https://img.shields.io/badge/Fugashi-%#000000.svg?style=flat&logo=Fugashi&logoColor=black"/> <img src="https://img.shields.io/badge/Gensim-%#000000.svg?style=flat&logo=Gradio&logoColor=black"/> <img src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Requests-%#000000.svg?style=flat&logo=Requests&logoColor=black"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>|
+| 2021.04  ~ 2021.08 | [KIICE paper](https://github.com/HenryYoon/auto-factcheck) | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-%#000000.svg?style=flat&logo=NLTK&logoColor=black"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>  |
 
 
 <!-- ## Tech Stack
