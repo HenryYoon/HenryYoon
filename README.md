@@ -18,14 +18,11 @@ Contact me via these media!
 
 | Date | Project | Tech Stack |
 |:--------------:|:--------------------------:|:------------------------------:|
-| 2022.12 ~ 2023.02 | [2023 KPMG Ideation Competition](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot) | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-%23F7931E.svg?style=flat&logo=Gradio&logoColor=black"/>|
-| 2022.12 | [Master's Thesis](https://github.com/HenryYoon/thesis) | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-%#000000.svg?style=flat&logo=NLTK&logoColor=black"/> <img src="https://img.shields.io/badge/KoNLPy-%#000000.svg?style=flat&logo=Gradio&logoColor=black"/> <img src="https://img.shields.io/badge/Fugashi-%#000000.svg?style=flat&logo=Fugashi&logoColor=black"/> <img src="https://img.shields.io/badge/Gensim-%#000000.svg?style=flat&logo=Gradio&logoColor=black"/> <img src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Requests-%#000000.svg?style=flat&logo=Requests&logoColor=black"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>|
-| 2021.04  ~ 2021.08 | [KIICE paper](https://github.com/HenryYoon/auto-factcheck) | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-%#000000.svg?style=flat&logo=NLTK&logoColor=black"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>  |
-
-
-<!-- ## Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white"/>  <img src="https://img.shields.io/badge/Matplotlib-%23F7931E.svg?style=flat&logo=Matplotlib&logoColor=black"/> -->
+| 2022.12 ~ 2023.02 | [2023 KPMG Ideation Competition](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot) | PyTorch, Transformers, Gradio, Pandas|
+| 2022.12 | [Master's Thesis](https://github.com/HenryYoon/thesis) | Pandas, Scikit-learn, SciPy, Seaborn, Plotly, Gensim, KoNLPy, NLTK, Fugashi, KoalaNLP|
+| 2021.10 | [AI 기반 회의 녹취록 요약 경진대회](https://github.com/HenryYoon/dacon_meeting) | PyTorch, Transformers, Pandas, Scikit-learn, KoNLPy |
+| 2021.04  ~ 2021.08 | [KIICE paper](https://github.com/HenryYoon/auto-factcheck) | PyTorch, Transformers, Pandas, Scikit-learn |
+| 2020.08  ~ 2020.09 | [월간 데이콘 컴퓨터 비전 학습 경진대회](https://github.com/HenryYoon/dacon_mnist) | PyTorch, Pandas, Scikit-learn, Pillow, Torchvision |
 
 
 
