@@ -11,7 +11,7 @@ Contact me via these media!
 
 ## Experiences
 - `2022.12 ~ 2023.02` Team leader, [Hotsix Team](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot), 2023 KPMG Ideation Competition
-- `2021.03 ~ 2023.02` Knowledge Engineering Laboratory, Computer Engineering, Chung-Ang University Graduate School
+- `2021.03 ~ 2023.02` Master Student, Knowledge Engineering Laboratory, Computer Engineering, Chung-Ang University Graduate School
 - `2020.07 ~ 2020.08` Research Intern, Intelligent Information Processing Laboratory, Chung-Ang University
 
 ## Projects
