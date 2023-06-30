@@ -10,6 +10,7 @@ Contact me via these media!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonihg@gmail.com)](mailto:yoonihg@gmail.com)
 
 ## Experiences
+- `2023.05 ~ ` AI Engineer, AiRISS, Daejeon
 - `2022.12 ~ 2023.02` Team leader, [Hotsix Team](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot), 2023 KPMG Ideation Competition
 - `2021.03 ~ 2023.02` Master Student, Knowledge Engineering Laboratory, Computer Engineering, Chung-Ang University Graduate School
 - `2020.07 ~ 2020.08` Research Intern, Intelligent Information Processing Laboratory, Chung-Ang University
