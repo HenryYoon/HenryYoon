@@ -91,4 +91,4 @@
 |---------|-------------|
 | [auto-factcheck](https://github.com/HenryYoon/auto-factcheck) | Transformer-based automated fact verification system (M.S. thesis) |
 | [anomaly-detection](https://github.com/HenryYoon/anomaly-detection) | Anomaly detection model training and evaluation |
-| [dacon_meeting](https://github.com/HenryYoon/dacon_meeting) | Dacon meeting transcript summarization competition (Top 9%) |
+| [KPMG HotSix Chat](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot) | 2023 KPMG Competition (Finalist) |
