@@ -90,5 +90,5 @@
 | Project | Description |
 |---------|-------------|
 | [auto-factcheck](https://github.com/HenryYoon/auto-factcheck) | Transformer-based automated fact verification system (M.S. thesis) |
-| [xray-diffusion](https://github.com/HenryYoon/xray-diffusion) | X-ray image generation using Stable Diffusion for data augmentation |
-| [airiss-xray-kaist](https://github.com/HenryYoon/airiss-xray-kaist) | KAIST collaboration on X-ray object detection |
+| [anomaly-detection](https://github.com/HenryYoon/anomaly-detection) | Anomaly detection model training and evaluation |
+| [dacon_meeting](https://github.com/HenryYoon/dacon_meeting) | Dacon meeting transcript summarization competition (Top 9%) |
