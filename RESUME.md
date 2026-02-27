@@ -14,7 +14,7 @@
 **Deployment & Infra:** Docker, PyInstaller, Linux, H100/A100 GPU clusters  
 **Data & Tools:** CVAT, SAM, NumPy, Git, GitHub, Slack, Jira  
 **Domain:** Object Detection, Model Compression, Edge AI, Computer Vision  
-**Language:** English — near-native (delivered technical presentations to Singapore government agencies)
+**Language:** English — near-native (delivered technical communications to Singaporean agency)
 
 ---
 
@@ -27,8 +27,8 @@
 - Contribution: Removed PyTorch dependency by converting inference to Numpy + ONNXRuntime. Analyzed Ultralytics source to customize ONNX build pipeline and resolve export errors.
 - Result: Inference latency 600 ms → 300 ms (50% reduction); deployment size 3 GB → 700 MB (76% reduction).
 
-**Pill Detection Model Architecture Improvement**
-- Background: Small pill objects resulted in low detection precision with default YOLO architecture.
+**Small Object Detection Model Improvement**
+- Background: Small objects resulted in low detection precision with default YOLO architecture.
 - Contribution: Categorized pill imaging cases by size, color, and shape. Proposed a per-case photography protocol to streamline data collection. Added P2 feature map to YOLOv8 backbone and applied sliding window for small-object detection.
 - Result: Precision 0.60 → 0.80 (33% improvement). Reduced false positives. Research outcomes led to a government-funded project selection.
 
@@ -43,7 +43,7 @@
 - Result: Initial setup time 20 min → 10 min (50% reduction). Achieved zero-dependency deployment, resolving compatibility issues.
 
 **MLOps & Data Operations Infrastructure**
-- Contribution: Secured A100×4 and H100×1 GPU servers via AICA partnership, optimizing training infrastructure. Reduced model generation cycle from 1 month to 1 week.
+- Contribution: Secured A100×4 and H100×1 GPU servers via AICA government grant, optimizing training infrastructure. Reduced model generation cycle from 1 month to 1 week.
 - Contribution: Configured Redis AOF (Append Only File) on CVAT server to prevent annotation data loss and maintain recovery integrity.
 - Contribution: Integrated SAM-based auto-labeling tools into CVAT to increase data preprocessing efficiency.
 
@@ -56,10 +56,10 @@
 
 ## Other Experience
 
-### Edge-Device LLM Deployment Research (2025.12 – Present)
+### Edge-Device LLM Deployment Research (2026.01 – 2026.02)
 - Analyzing feasibility and technical constraints of LLM deployment on low-power NPU accelerators (Hailo-10H).
-- Fine-tuning legal domain Qwen 2.5 (3B) model using Unsloth library.
-- Investigating Tensor Shape mismatch and data type incompatibility issues during Hailo compiler conversion.
+- Fine-tuned Qwen 2.5-3B and Qwen 2-1.5B on legal domain using RAFT methodology and Unsloth; ROUGE-L F1 improved from 0.13 to 0.41.
+- NPU deployment blocked — Hailo does not distribute HAR files required for LoRA adapter compilation.
 
 ### KPMG Ideathon — Team Lead (2022.12 – 2023.02)
 - Led a 6-member cross-functional team (planners, designers, AI engineers) through project roadmap planning and management.
@@ -70,9 +70,9 @@
 ## Education
 
 ### Chung-Ang University — M.S. in Computer Engineering (2021.03 – 2023.02)
-- Research: Transformer-based automated fact-checking models (Advisor: Prof. Seok-Hwan Lee)
+- Research: Transformer-based automated fact-checking models (Advisor: Prof. Jason J. Jung)
 - Thesis: Document embedding and sentiment analysis-based international issue analysis system
-- Best Paper Award at KIICE Fall Conference (2021)
+- Best Paper Award at KIICE Spring Conference (2021)
 - Reduced Transformer training time by 3× using LSH-based attention mechanism design
 
 ### Hansung University — B.A. in Public Administration (2014.03 – 2021.02)
@@ -89,6 +89,6 @@
 
 | Project | Description |
 |---------|-------------|
-| [auto-factcheck](https://github.com/HenryYoon/auto-factcheck) | Transformer-based automated fact verification system (M.S. thesis) |
-| [anomaly-detection](https://github.com/HenryYoon/anomaly-detection) | Anomaly detection model training and evaluation |
+| [hailo-llm-deploy](https://github.com/HenryYoon/hailo-llm-deploy) | LLM fine-tuning and Hailo NPU edge deployment pipeline
 | [KPMG HotSix Chat](https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot) | 2023 KPMG Competition (Finalist) |
+| [auto-factcheck](https://github.com/HenryYoon/auto-factcheck) | Transformer-based automated fact verification system (M.S. thesis) |
